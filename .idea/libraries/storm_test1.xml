@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="storm-test1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lesson1-stage1/out/artifacts/storm_test1_jar/storm-test1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
